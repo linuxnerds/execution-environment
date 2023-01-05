@@ -1,6 +1,4 @@
 collections:
-  - name: kubernetes.core
-    version: 2.3.1
   - name: openstack.cloud
     version: 1.7.2
   - name: amazon.aws
