@@ -1,3 +1,3 @@
-jq [platform:rpm]
-hostname [platform:rpm]
-rsync [platform:rpm]
+jq [platform:rhel-8]
+hostname [platform:rhel-8]
+rsync [platform:rhel-8]
